@@ -1,0 +1,2 @@
+1. When we run uname command without any options, it just prints the core operating system name
+2. When the ‘uname’ command is run without any option then it prints just the kernel name
